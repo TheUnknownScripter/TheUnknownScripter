@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  Currently learning More About <strong>JS C++ C# HTML CSS Python Lua</strong>
+  Currently learning More About <strong>JS NodeJS C++ C# HTML CSS Python Lua</strong>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
